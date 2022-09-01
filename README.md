@@ -18,4 +18,4 @@ Bu "prop"lar sırasıyla, author, recipe, count, liked olarak adlandırılmış 
 
 ## Todos
 
-- [ ] Recipes Api Added. (Random recipe data)
+- [ ] Recipes Api Added. (Random recipe data, https://recipes.eerieemu.com/api/recipe/, https://github.com/flackdl/recipe_api)
