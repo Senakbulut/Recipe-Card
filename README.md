@@ -2,9 +2,9 @@
 
 Bu projede bir yemek tarifi web sitesindeki her bir yemek için görüntülenecek kartı oluşturuyoruz. Projedeki Card Componenti bir yemek tarifinin detaylarını, yazarını, beğeni sayısını ve kullanıcın tarifi beğenip beğenmediğine dair birtakım bilgileri gösteriyor.
 
-<p align="center">
-  <img src="recipe-card.png" alt="Recipe Card"/>
-</p>
+### [Demo](https://recipe-card-theta.vercel.app/)
+
+![Recipe Card](recipe-card.png)
 
 ### Proje Nasıl Çalıştırılır
 
@@ -16,3 +16,6 @@ Bu projede bir yemek tarifi web sitesindeki her bir yemek için görüntülenece
 Card Componenti yemek hakkında bilgileri listelemek için belli başlı "prop"lar almakta.
 Bu "prop"lar sırasıyla, author, recipe, count, liked olarak adlandırılmış durumda.
 
+## Todos
+
+- [ ] Recipes Api Added. (Random recipe data, https://recipes.eerieemu.com/api/recipe/, https://github.com/flackdl/recipe_api)

@@ -1,6 +1,6 @@
 import "./App.css";
 import Card from "./components/Card/Card";
-import food from "./assets/food.jpg"; // Tell webpack this JS file uses this image
+//import food from "./assets/food.jpg"; // Tell webpack this JS file uses this image
 
 function App() {
   const recipeAuthor = "Kodluyoruz";
